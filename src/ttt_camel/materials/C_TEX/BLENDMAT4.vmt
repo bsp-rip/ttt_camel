@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+
+{
+
+	"$basetexture" "nature/cavewall005a"
+
+	"$basetexture2" "nature/rockwall010b"
+
+	"%tooltexture" "nature/rockwall010b"
+
+	"%keywords" "cat"
+
+}

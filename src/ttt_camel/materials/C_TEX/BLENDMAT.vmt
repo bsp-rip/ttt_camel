@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+
+{
+
+	"$basetexture" "concrete/concretefloor007a"
+
+	"$basetexture2" "concrete/concretefloor020a"
+
+	"%tooltexture" "nature/snowfloor003a"
+
+	"%keywords" "cat"
+
+}

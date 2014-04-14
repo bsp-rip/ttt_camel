@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_camel_dev1/c-29_1819_75"
+		"Proxies"
+		{
+		}
+	}
+}
